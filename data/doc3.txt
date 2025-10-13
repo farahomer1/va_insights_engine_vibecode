@@ -1,0 +1,6 @@
+Project Title: "Mental Health Support Services: A Comparative Analysis of In-Person vs. Virtual Group Therapy"
+Date: November 20, 2023
+Principal Investigator: Dr. Anya Sharma
+
+Executive Summary:
+This comparative analysis examined the efficacy of in-person versus virtual group therapy for veterans with PTSD. The study involved 80 participants randomly assigned to either treatment modality over a 12-week period. Clinical outcomes, measured by the PCL-5 scale, showed no statistically significant difference in symptom reduction between the two groups. However, qualitative feedback revealed that veterans in the virtual group reported a higher sense of psychological safety and were more likely to discuss sensitive topics. Conversely, the in-person group reported a stronger sense of camaraderie. The findings suggest that a hybrid model, offering both modalities, could provide the most comprehensive support, catering to different veteran preferences and needs.

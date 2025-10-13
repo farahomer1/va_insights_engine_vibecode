@@ -1,0 +1,6 @@
+Project Title: "Telehealth Adoption Among Rural Veterans: A Longitudinal Analysis"
+Date: September 1, 2023
+Principal Investigator: Dr. Marcus Thorne
+
+Executive Summary:
+This longitudinal study tracked telehealth service adoption among 500 rural veterans over a two-year period. Our findings indicate a steady increase in adoption, with a 40% rise in virtual appointments since the program's inception. The primary drivers for adoption were convenience and reduced travel time. However, significant barriers remain, including inconsistent broadband access and a lack of digital literacy among older veterans. The data shows a clear correlation between participation in VA-sponsored digital literacy workshops and higher sustained use of telehealth services. We recommend expanding these workshops and exploring partnerships with local community organizations to provide internet access points.

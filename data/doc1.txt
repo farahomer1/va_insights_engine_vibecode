@@ -1,0 +1,10 @@
+Project Title: "Digital Health Record Modernization: A Study on Clinician Burnout"
+Date: June 15, 2023
+Principal Investigator: Dr. Evelyn Reed
+
+Executive Summary:
+This study investigated the impacts of the recent digital health record (DHR) modernization 
+initiative on clinician burnout across three major VA medical centers. 
+Through a series of surveys and semi-structured interviews with 150 physicians, 
+nurses, and administrative staff, we found a significant short-term increase in self-reported stress and 
+cognitive load. Key themes identified include challenges with the new user interface, increased time spent on documentation, and a perceived lack of adequate training. However, the study also highlighted a subset of "power users" who reported increased efficiency after an initial adjustment period. Recommendations include targeted training modules, UI customization options, and the establishment of a peer-to-peer support network to mitigate burnout and improve DHR adoption.
